@@ -1,0 +1,176 @@
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\appsettings.json
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.exe
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.deps.json
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.runtimeconfig.json
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.pdb
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.AssemblyReference.cache
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfoInputs.cache
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfo.cs
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CoreCompileInputs.cache
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.AngularAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularAuthAPI.props
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularAuthAPI.props
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularAuthAPI.props
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\scopedcss\bundle\AngularAuthAPI.styles.css
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CopyComplete
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\refint\AngularAuthAPI.dll
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.pdb
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.genruntimeconfig.cache
+C:\Angular In One\My-Pro\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\ref\AngularAuthAPI.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.exe
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.deps.json
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.runtimeconfig.json
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\AngularAuthAPI.pdb
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.AssemblyReference.cache
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfoInputs.cache
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.AssemblyInfo.cs
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CoreCompileInputs.cache
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.AngularAuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AngularAuthAPI.props
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AngularAuthAPI.props
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AngularAuthAPI.props
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\scopedcss\bundle\AngularAuthAPI.styles.css
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.csproj.CopyComplete
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\refint\AngularAuthAPI.dll
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.pdb
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\AngularAuthAPI.genruntimeconfig.cache
+C:\Users\PROMACT\Desktop\angular_auth\AngularAuthAPI\AngularAuthAPI\obj\Debug\net6.0\ref\AngularAuthAPI.dll
